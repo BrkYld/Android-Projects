@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="harita">Harita</string>
+    <string name="demo_yazilimi">DEMO YAZILIMI</string>
+    <string name="toplama_cikarma">Toplama-Cikarma</string>
+    <string name="basarili">BASARILI</string>
+    <string name="_1_say">1.sayı:</string>
+    <string name="textview">TextView</string>
+    <string name="_2_say">2.sayı:</string>
+    <string name="topla">Topla</string>
+    <string name="cikar">CIKAR</string>
+    <string name="geri">GERI</string>
+    <string name="title_activity_harita">Map</string>
+</resources>
